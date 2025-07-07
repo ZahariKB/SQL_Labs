@@ -1,0 +1,3 @@
+USE Ucheb_8_Tuiev;
+SELECT TOP 10 PERCENT * FROM Student
+ORDER BY FIO;
