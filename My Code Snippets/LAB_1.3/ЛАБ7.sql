@@ -1,3 +1,0 @@
-USE Ucheb_8_Tuiev;
-SELECT * FROM Student
-WHERE data BETWEEN '2001-01-01' AND '2005-12-09'
