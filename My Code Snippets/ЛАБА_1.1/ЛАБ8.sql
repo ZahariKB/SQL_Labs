@@ -1,2 +1,0 @@
-SELECT top 2 * FROM Student
-ORDER BY FIO ASC;

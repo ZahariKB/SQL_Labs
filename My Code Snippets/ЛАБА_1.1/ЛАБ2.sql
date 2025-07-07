@@ -1,1 +1,0 @@
-SELECT FIO, Data FROM Student;

@@ -1,0 +1,4 @@
+USE Ucheb_8_Tuiev;
+SELECT FIO, Data FROM Student
+ORDER BY Data
+OFFSET 4 ROWS;

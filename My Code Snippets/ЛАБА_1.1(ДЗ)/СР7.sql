@@ -1,3 +1,0 @@
-USE Ucheb_8_Tuiev;
-SELECT TOP 1 FIO FROM Student
-ORDER BY FIO DESC;

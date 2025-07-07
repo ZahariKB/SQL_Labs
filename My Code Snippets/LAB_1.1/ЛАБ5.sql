@@ -1,0 +1,1 @@
+SELECT DISTINCT spez FROM Student;

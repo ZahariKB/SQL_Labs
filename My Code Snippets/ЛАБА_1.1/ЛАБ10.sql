@@ -1,2 +1,0 @@
-SELECT TOP 4 WITH TIES * FROM Student
-ORDER BY godpost;
